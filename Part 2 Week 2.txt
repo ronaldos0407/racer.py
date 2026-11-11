@@ -13,7 +13,7 @@ ACCEL = 0.12
 BRAKE = 0.35
 COAST = 0.04
 ROUGH_BRAKE = 0.40
-
+#I need to add some more code in here for the future
 DASH_PERIOD = 60
 DASH_LENGTH = 30
 
